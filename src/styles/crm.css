@@ -1,0 +1,113 @@
+button {
+  background: none;
+}
+
+.botaoBotao {
+  background: #2A32BF;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0 10px;
+}
+
+.divEntrada {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputEntrada {
+  background: rgb(226, 226, 226);
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+
+.labelForm {
+  margin-bottom: 15px;
+}
+
+.divForm {
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+}
+
+.icon {
+  font-size: 22px;
+  margin-top: 9px;
+}
+
+.backgroundLayout {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  background: #fff;
+  color: #232323;
+  border-radius: 20px;
+  max-width: 800px;
+  width: 800px;
+  box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.3);
+}
+
+.titleTabela {
+  text-align: center;
+  padding: 10px;
+}
+
+.tdTabela {
+  display: flex;
+  justify-content: center;
+}
+
+.edit {
+  color: #26ad21;
+  text-align: center;
+}
+
+.trash {
+  color: #ad2727;
+  margin-left: 15px;
+}
+
+.tableTabela {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+.topTabela {
+  background: #2A32BF;
+  color: #fff;
+}
+
+.divTitulo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.h1Titulo {
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.lineTitulo {
+  height: 4px;
+  background: #2A32BF;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.divPrincipal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #b0b9e9;
+}
+
+.div2Principal {
+  display: flex;
+  justify-content: end;
+}
